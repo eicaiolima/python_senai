@@ -1,0 +1,5 @@
+print('Olá Mundo!')
+print('Um bom dia a todos')
+print('Uma ótima quarta feira a todos')
+print('A Frase para hoje é')
+print('As pessoas passam anos na escola para ter um salário que, no melhor dos casos, não passa de um salário de merda')
